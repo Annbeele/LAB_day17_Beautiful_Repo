@@ -1,1 +1,1 @@
-# LAB_day17_Beautiful_Repo
+# IRONHACK LAB: Day 17 - Logistic_regression_bank_outline
