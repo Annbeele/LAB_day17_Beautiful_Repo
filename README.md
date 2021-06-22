@@ -1,1 +1,2 @@
-# IRONHACK LAB: Day 17 - Logistic_regression_bank_outline
+# IRONHACK LAB: Day 17 - A beautiful repo and readme
+## Logistic regression bank outline
